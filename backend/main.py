@@ -14,7 +14,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-GOOGLE_API_KEY = "AIzaSyDKrlRSTX3z67eRmec9sm3xjyULoLf-SfA"
+GOOGLE_API_KEY = "your-google-api-key"
 
 class NewsInput(BaseModel):
     text: str
