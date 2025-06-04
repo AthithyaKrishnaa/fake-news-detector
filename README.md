@@ -7,8 +7,8 @@ Features
 - Clean, responsive UI with smooth animations using AOS.
 - Displays relevant images related to fact-check claims (if available).
 
-Why This Project Matters
-In today’s world flooded with misinformation, this tool empowers users to validate news quickly and avoid spreading fake news.
+Why This Project Matters? 
+- In today’s world flooded with misinformation, this tool empowers users to validate news quickly and avoid spreading fake news.
 
 Tech Stack
 - Backend: FastAPI (Python)
