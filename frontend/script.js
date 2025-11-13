@@ -1,4 +1,6 @@
-const API_BASE = (location.hostname === '127.0.0.1' || location.hostname === 'localhost') ? 'http://127.0.0.1:8080' : '';
+const API_BASE = (location.hostname === '127.0.0.1' || location.hostname === 'localhost')
+  ? 'http://127.0.0.1:8080'
+  : 'https://fake-news-detector-rv03.onrender.com';
 
 const checkBtn = document.getElementById('checkBtn');
 const clearBtn = document.getElementById('clearBtn');
