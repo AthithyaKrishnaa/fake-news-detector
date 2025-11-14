@@ -6,7 +6,7 @@ A web application that helps you detect misinformation and verify news claims. P
 
 ## Live Demo
 
-Check it out here: [Fake News Detector](https://fake-news-detector-rv03.onrender.com)
+Check it out here: [Fake News Detector](https://fake-news-detector-k1wt.onrender.com/)
 
 ---
 
